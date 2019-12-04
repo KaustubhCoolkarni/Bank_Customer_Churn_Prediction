@@ -1,5 +1,5 @@
 # Bank_Customer_Churn_Prediction_Kaggle
-## Predict the Bank customers which are going to churn. And also analyze the factors affecting for the churn.
+## Predict the Bank customers which are going to churn. Also analyze the factors affecting for the churn.
 
 An international bank has a business problem with customer retention and observed high
 churn rates. The bank observed that alarming number of existing customers exit while it is
